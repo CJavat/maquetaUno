@@ -40,13 +40,13 @@
 }
 
 #estrategias {
-    background-image: url('/IMG/fondo-ajedrez.png');
+    background-image: url('../IMG/fondo-ajedrez.png');
     background-position: 0;
     background-repeat: no-repeat;
 }
 
 #agendar-cita {
-    background-image: url('/IMG/fondo-cita.png');
+    background-image: url('../IMG/fondo-cita.png');
     background-position: 0;
     background-repeat: no-repeat;
 }
