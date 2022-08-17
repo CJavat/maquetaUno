@@ -1,9 +1,5 @@
 .main {
-<<<<<<< HEAD
-    background-image: url('../IMG/fondo.jpg');
-=======
-    background-image: url('/IMG/fondo.png');
->>>>>>> ef54dee701e7abbc2c7b554d88bfe3e3e1f8fba0
+    background-image: url('../IMG/fondo.png');
     background-size: cover;
     background-position: 0;
     background-repeat: no-repeat;
